@@ -1,6 +1,7 @@
 <?php
 session_start();
 error_reporting(0);
+//test editing source code using GitHub over here.
 include('config.php');
 
 if(isset($_POST['login'])) {
