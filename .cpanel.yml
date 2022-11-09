@@ -2,5 +2,5 @@
 deployment:
  tasks:
  - export DEPLOYPATH=/home/fastaqim/public_html/insurance2
- - /bin/cp index.html $DEPLOYPATH
+ - /bin/cp index.php $DEPLOYPATH
  - /bin/cp style.css $DEPLOYPATH
